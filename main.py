@@ -5,4 +5,5 @@ def factorial(n):
 
   return ans
 
-print(factorial(5))
+for j in [2, 4, 10]:
+  print(factorial(j))
